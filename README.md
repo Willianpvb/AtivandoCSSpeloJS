@@ -1,1 +1,2 @@
-"# Ativando CSS pelo JS" 
+<h2> Ativando CSS pelo JS<h2> 
+<p>Nessa pasta eu estou utilizando alguns recursos do JS(setAttribute, removeAttribute, classList ...) para criar uma certa interação entre o html - js - css, resultando num recurso de onclick que ativa uma função no js e que muda/adiciona uma classe num elemento especifico que já está pré-alterada no arquivo css, o que faz o elemento receber as especificações da classe. </p>
