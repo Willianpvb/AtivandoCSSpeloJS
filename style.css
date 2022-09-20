@@ -1,0 +1,29 @@
+body{
+    color:green;
+}
+
+/* Classe que irá ser ativada pelo JS */
+.rosa{
+    font-size:50px;
+    color:pink;
+    text-align: center;
+    border: 5px solid blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color:aqua;
+}
+
+#paragrafo, #paragrafo2{
+    cursor:pointer;
+}
+
+.azul{
+    font-size:50px;
+    color:blue;
+    text-align: center;
+    border: 5px solid red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color:whitesmoke;
+}
+
